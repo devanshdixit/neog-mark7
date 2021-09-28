@@ -1,0 +1,61 @@
+body{
+  margin: 0px;
+}
+
+.container{
+  max-width: 400px;
+  width: 100%;
+  margin: auto
+}
+.nav{
+    text-align: center;
+  background-color: rgba(250, 188, 247, 0.884);
+}
+.footer-title{
+   padding: 1rem;
+  font-size: 18px;
+  font-weight: 700;
+}
+.title{
+
+    padding: 3rem;
+  font-size: 30px;
+  font-weight: 700;
+}
+.footerlink{
+  text-decoration: none;
+}
+footer{
+  position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 0.5rem;
+
+  background-color: rgba(241, 163, 238, 0.884);
+    text-align: center;
+}
+        textarea {
+            width: 80%;
+            height: 10vh;
+            display: block;
+            margin: 1rem;
+            padding: 1rem;
+        }
+
+        #output {
+            border: 1px solid black;
+            height: 10vh;
+            width: 80%;
+            margin: 1rem;
+            padding: 1rem;
+        }
+        #btn-translate{
+           background-color: rgba(250, 188, 247, 0.884);
+           border-radius: 5px;
+           border: 1px solid black;
+          color: black;
+            font-size: 18px;
+  font-weight: 600;
+          margin: 10px 20px;
+          padding: 10px 20px;
+        }
